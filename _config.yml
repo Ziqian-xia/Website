@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Ziqian Xia
 description: Environmental Psychology & Economics
-show_downloads: true
+show_downloads: false
 color:
   header: "#FFFFFF"
   gradient_left: "#8360c3"
