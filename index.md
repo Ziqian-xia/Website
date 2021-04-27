@@ -1,36 +1,43 @@
-### Welcome to Ziqian Xia's Personal Pages
+## Welcome to Ziqian Xia's Pages
 
-Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm)
+Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I am interested in research on environmental behavior and environmental economics. Currently I am trying to measure pro-environmental behavior using IoT data. See [my research section](Ziqian-xia.github.io/myresearch) for detail.
 
-### Markdown
+- I am a fan of [R](www.rstudio.com/) and I enjoy using it for modeling and visualization. I am currently working on a visualization package that help figures easily meets the publication requirements. If you are interested please visit the [resources](Ziqian-xia.github.io/resources) page.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Now I am seeking for available Masters or PhD positions, feel free to reach me if there any info and chances **
 
-```markdown
-Syntax highlighted code block
+### Incoming publications
 
-# Header 1
-## Header 2
-### Header 3
+Aiding Pro-environmental behavior by Internet of Things (*Under review*) Resources,conservation&recycling
+Understanding real waste sorting behaviour by Internet of Things (*Under review*) Resources,conservation&recycling
 
-- Bulleted
-- List
+### Working Papers
 
-1. Numbered
-2. List
+Promoting constant recycling behavior: Why people quit after the first try?
 
-**Bold** and _Italic_ and `Code` text
+### 1007Aesthetics 
+1007 is the number of room of my current labs, 1007Aesthetics is aim to produce high-quality plots that easily reach the publication requirements.
 
-[Link](url) and ![Image](src)
+To install 1007Aesthetics
+
+```r
+install.packages('1007Aesthetics')
+#Under developing
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### My co-worker and comrades
 
-### Jekyll Themes
+> [Computational Policy Lab](https://cpl-envir.wixsite.com/labpage) is a interest group I founded with other undergraduate student.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ziqian-xia/Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Check them at:
+- Yifan Song
+- Jinquan Ye
+- Yunrong Liu
+- Yun Zhong
+- Da chen
+
 
 ### Support or Contact
 
