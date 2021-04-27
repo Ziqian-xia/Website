@@ -5,8 +5,8 @@ description: Environmental Psychology & Economics
 show_downloads: true
 color:
   header: "#FFFFFF"
-  gradient_left: "#8360c3"
-  gradient_right: "#2ebf91"
+  gradient_left: "#141E30"
+  gradient_right: "#243B55"
 buttons:
       zip_url: http://example.com/
       zip_title: CV
