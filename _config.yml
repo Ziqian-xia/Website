@@ -5,8 +5,8 @@ description: Ziqian.research@gmail.com
 show_downloads: true
 color:
   header: "#FFFFFF"
-  gradient_left: "#159957"
-  gradient_right: "#155799"
+  gradient_left: "#30E8BF"
+  gradient_right: "#FF8235"
 buttons:
       zip_url: https://github.com/Ziqian-xia/Ziqian-xia.github.io/blob/gh-pages/CV-Ziqian.pdf
       zip_title: CV
