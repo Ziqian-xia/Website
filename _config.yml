@@ -7,7 +7,6 @@ color:
   header: "#FFFFFF"
   gradient_left: "#8360c3"
   gradient_right: "#2ebf91"
-syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://github.com/tuur29/pages-themes-cayman
   zip_title: View Documentation
