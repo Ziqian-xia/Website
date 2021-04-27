@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Ziqian Xia
+description: Cognitive Load
 plugins:
   - jekyll-relative-links
 relative_links:
