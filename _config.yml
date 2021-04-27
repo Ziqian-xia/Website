@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: aaaZiqian Xia
+remote_theme: tuur29/pages-themes-cayman
+title: Ziqian Xia
 description: Environmental Psychology & Economics
 show_downloads: true
-remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#FFFFFF"
   gradient_left: "#8360c3"
