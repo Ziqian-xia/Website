@@ -8,7 +8,7 @@ color:
   gradient_left: "#304352"
   gradient_right: "#d7d2cc"
 buttons:
-      zip_url: http://example.com/
+      zip_url: https://github.com/Ziqian-xia/Ziqian-xia.github.io/blob/gh-pages/CV-Ziqian.pdf
       zip_title: CV
       zip_hide: false
       tar_url: http://example.com/
