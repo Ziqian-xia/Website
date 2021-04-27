@@ -10,7 +10,7 @@ Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](http
 
 ### Incoming publications
 
-Aiding Pro-environmental behavior by Internet of Things (*Under review*) Resources,conservation&recycling
+Aiding Pro-environmental behavior by Internet of Things (*Under review*) Resources,conservation&recycling\
 Understanding real waste sorting behaviour by Internet of Things (*Under review*) Resources,conservation&recycling
 
 ### Working Papers
