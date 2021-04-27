@@ -1,7 +1,6 @@
-## Welcome to Ziqian Xia's Pages
+### Welcome to Ziqian Xia's Personal Pages
 
-Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at Institute of Circular Economy
-
+Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
