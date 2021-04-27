@@ -5,8 +5,8 @@ description: Environmental Psychology & Economics
 show_downloads: true
 color:
   header: "#FFFFFF"
-  gradient_left: "#304352"
-  gradient_right: "#d7d2cc"
+  gradient_left: "#159957"
+  gradient_right: "#155799"
 buttons:
       zip_url: https://github.com/Ziqian-xia/Ziqian-xia.github.io/blob/gh-pages/CV-Ziqian.pdf
       zip_title: CV
