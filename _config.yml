@@ -9,11 +9,11 @@ color:
   gradient_right: "#2ebf91"
 buttons:
       zip_url: http://example.com/
-      zip_title: Title
+      zip_title: CV
       zip_hide: false
       tar_url: http://example.com/
-      tar_title: Title
-      tar_hide: false
+      tar_title: Latest Talk
+      tar_hide: true
       github_hide: true # hides "View on Github"
 plugins:
   - jekyll-relative-links
