@@ -1,6 +1,7 @@
-## wWelcome to Ziqian Xia's Pages
+## Welcome to Ziqian Xia's Pages
 
-You can use the [editor on GitHub](https://github.com/Ziqian-xia/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at Institute of Circular Economy
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
