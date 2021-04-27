@@ -6,7 +6,7 @@ Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](http
 
 - I am a fan of [R](www.rstudio.com/) and I enjoy using it for modeling and visualization. I am currently working on a visualization package that help figures easily meets the publication requirements. If you are interested please visit the [resources](Ziqian-xia.github.io/resources) page.
 
-**Now I am seeking for available Masters or PhD positions, feel free to reach me if there any info and chances **
+**Now I am seeking for available Masters or PhD positions, feel free to reach me if there any info and chances**
 
 ### Incoming publications
 
