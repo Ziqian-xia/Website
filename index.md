@@ -1,4 +1,4 @@
-## Welcome to Ziqian Xia's Pages
+## Ziqian Xia's Page
 
 Hi there, I am Ziqian Xia, a undergraduate student at [Nanchang University](https://http://www.ncu.edu.cn/) as well as a primary researcher at [Xi tian's group](http://sem.ncu.edu.cn/szdw/szgk/js/79c83e7575f34bfca134a33cd2e17209.htm).
 
@@ -13,7 +13,7 @@ You can directly download my CV and my talk from the website. Thank you!
 ### Incoming publications
 
 Aiding Pro-environmental behavior by Internet of Things (*Under review*) Resources, conservation & recycling\
-Understanding real waste sorting behaviour by Internet of Things (*Under review*) Resources, conservation & recycling\
+Understanding real waste sorting behaviour by Internet of Things (*Under review*) Resources, conservation & recycling
 
 ### Working Papers
 
